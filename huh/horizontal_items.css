@@ -1,0 +1,19 @@
+
+.container{
+    display: flex;
+    border: solid 3px black;
+    height: 600px;
+    width: 400;
+
+    flex-direction: row ;
+    flex-wrap: wrap;
+
+}
+
+
+.box{
+    background-color: azure;
+    width: 100px;
+    height: 100px;
+    margin: 8px;
+}
